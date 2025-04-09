@@ -112,9 +112,9 @@ I'm a software engineer with 3+ years of experience in building scalable, high-p
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   
-  <a href="https://ashwinipal.github.io" target="_blank">
+  <!-- <a href="https://ashwinipal.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-9146FF?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ### <p align="center">Thank you for visiting! ⭐️</p>
