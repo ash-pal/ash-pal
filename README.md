@@ -61,13 +61,14 @@ I'm a software engineer with 3+ years of experience in building scalable, high-p
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Stock Trading Platform** | Real-time stock trading simulation app with portfolio tracking and charts | Spring Boot, React, MySQL, REST API | [🔗](https://github.com/ashwinipal/stock-trading-platform) |
-| **AI Expense Tracker** | AI-powered tool for tracking and categorizing expenses, sending insights and alerts | Spring Boot, Angular, OpenAI API, MongoDB | [🔗](https://github.com/ashwinipal/ai-expense-tracker) |
-| **Personal Portfolio** | Developer portfolio with dark mode, timeline, animations, and project showcase | React, TailwindCSS, Framer Motion | [🔗](https://github.com/ashwinipal/dev-portfolio) |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Stock Trading Platform** | Real-time stock trading simulation app with portfolio tracking and charts | Spring Boot, React, MySQL, REST API |
+| **AI Expense Tracker** | AI-powered tool for tracking and categorizing expenses, sending insights and alerts | Spring Boot, Angular, OpenAI API, MongoDB |
+| **Personal Portfolio** | Developer portfolio with dark mode, timeline, animations, and project showcase | React, TailwindCSS, Framer Motion |
 
-<details>
+
+<!-- <details>
 <summary>View More Projects</summary>
 
 | Project | Description | Tech Stack | Link |
@@ -77,6 +78,7 @@ I'm a software engineer with 3+ years of experience in building scalable, high-p
 | **Weather Dashboard** | Real-time weather app with location-based search | React, OpenWeather API | [🔗](https://github.com/ashwinipal/weather-dashboard) |
 
 </details>
+-->
 
 ---
 
